@@ -18,13 +18,13 @@ lightbox.init();
 <div class="pswp-gallery" id="my-gallery">
   {% for snowbord-pride-images in site.data.snowboard-pride-images %}
     <a
-      href="/assets/img/projects/snowboard-pride/{{ snowbord-pride-images.image-name }}"
+      href="{{ site.github.url }}/assets/img/projects/snowboard-pride/{{ snowbord-pride-images.image-name }}"
       data-pswp-width="500"
       data-pswp-height="500"
       target="_blank"
     >
       <img
-        src="/assets/img/projects/snowboard-pride/{{ snowbord-pride-images.image-name }}"
+        src="{{ site.github.url }}/assets/img/projects/snowboard-pride/{{ snowbord-pride-images.image-name }}"
         width="100"
         height="100"
         alt=""
