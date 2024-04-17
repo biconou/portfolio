@@ -12,10 +12,9 @@ menu:
 
 projects:
 - {name: 'Snowboard Pride',   url: 'snowboard-pride'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Comment j''apprends à me tenir droit',   url: 'me-tenir-droit'}
+- {name: 'Mon Cap Ferret', url: 'mon-cap-ferret'}
+
 
 #-------------------------------
 # Contact Section
