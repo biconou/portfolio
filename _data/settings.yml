@@ -2,18 +2,19 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'Projets', url: ''}
+#- {name: 'Blog',     url: 'blog'}
+- {name: 'A propos',    url: 'about'}
+#- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
 - {name: 'Snowboard Pride',   url: 'snowboard-pride'}
-- {name: 'Comment j''apprends à me tenir droit',   url: 'me-tenir-droit'}
-- {name: 'Mon Cap Ferret', url: 'mon-cap-ferret'}
+#- {name: 'Comment j''apprends à me tenir droit',   url: 'me-tenir-droit'}
+#- {name: 'Mon Cap Ferret', url: 'mon-cap-ferret'}
+- {name: 'Chronique', url: 'chronique'}
 
 
 #-------------------------------
